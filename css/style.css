@@ -4,6 +4,7 @@
 }
 .background2 {
     background-color: rgb(48, 48, 48);
+    color: white;
      
 }
 .chleba {
@@ -11,16 +12,19 @@
 }
 
 .chleb {
-    display: flex;
-    height: 300px;
-    width: 800px;
-    
-
-}
-.chleb2 {
-    display: flex;
-    height: 300px;
-    width: 800px;
-    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    flex-direction: column;
+    gap: 20px;
 }
 
+img {
+    width: 350px;
+}
+
+.chleba div {
+    background-color: blueviolet;
+}
+.grid{
+
+}
