@@ -9,40 +9,18 @@
 .chleba {
     color: white;
 }
-.who-img{
-    background: url(../img/1.png) no-repeat center center/cover;
-    height: 50vh;
-    width: 50vh;
-    justify-content: center;
+
+.chleb {
+    display: flex;
+    height: 300px;
+    width: 800px;
+    
 
 }
-.who-img2{
-    background: url(../img/2.png) no-repeat center center/cover;
-    height: 50vh;
-    width: 50vh;
-    justify-content: center;
+.chleb2 {
+    display: flex;
+    height: 300px;
+    width: 800px;
+    
 }
-.who-img3{
-    background: url(../img/3.png) no-repeat center center/cover;
-    height: 50vh;
-    width: 50vh;
-    justify-content: center;
-}
-.who-img4{
-    background: url(../img/4.png) no-repeat center center/cover;
-    height: 50vh;
-    width: 50vh;
-    justify-content: center;
-}
-.who-img5{
-    background: url(../img/5.png) no-repeat center center/cover;
-    height: 50vh;
-    width: 50vh;
-    justify-content: center;
-}
-.who-img6{
-    background: url(../img/6.png) no-repeat center center/cover;
-    height: 50vh;
-    width: 50vh;
-    justify-content: center;
-}
+
